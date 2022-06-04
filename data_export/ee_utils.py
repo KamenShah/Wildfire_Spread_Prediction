@@ -320,7 +320,7 @@ def split_days_into_train_eval_test(
   # days = days[::window_length_days]
 
   #SHUFFFLE 
-  # random.shuffle(days)
+  # random.shuffle(start_times)
   # num_eval = int(len(days) * split_ratio)
   # split_days = {}
   # split_days['train'] = days[:-2 * num_eval]
