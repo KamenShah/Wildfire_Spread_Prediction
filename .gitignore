@@ -2,5 +2,4 @@ tmp/
 data/
 .vs/
 logs/
-models/
-models-baseline/
+models*/
