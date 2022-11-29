@@ -1,6 +1,7 @@
 tmp/
 data/
-.vs/
+.vs
 logs/
 models*/
 hpo_models*/
+.ipynb_checkpoints
