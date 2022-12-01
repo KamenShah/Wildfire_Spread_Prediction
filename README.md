@@ -32,6 +32,19 @@ python3 -m data_export.export_ee_training_data_main \
 Model exploration, testing, and analysis can be found in the model_training.ipynb
 
 
+### Predictions Made by U-Net Variations
+
+<img src="images/All Model predictions.png" width="500"/>
+
+### Predictions Made by Ensemble Architecture
+
+<img src="images/ensemble predictions.png" width="500"/>
+
+## Results
+
+<img src="images/results.png" width="500"/>
+
+
 ## Atribution
 
 Data collection efforts are based on the paper ["Next Day Wildfire Spread: A Machine
